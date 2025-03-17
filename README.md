@@ -80,9 +80,6 @@ This will start an interactive web-based chatbot.
 ## Contributing
 Feel free to fork the repository, submit issues, and create pull requests!
 
-## License
-This project is licensed under the MIT License.
-
 ---
 Developed with ❤️ using AI and NLP!
 
